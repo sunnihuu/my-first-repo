@@ -8,8 +8,6 @@ body {
   color: #111;                        /* Set text color to dark gray (almost black) */
   margin: 0;                          /* Remove default spacing around the body */
   padding: 0;                         /* Remove default internal spacing */
-  align-items: center;
-  justify-content: center;
 }
 
 /* Style the header section at the top of the page */
