@@ -1,5 +1,8 @@
-/* Import Google Fonts - this loads the Roboto font family from Google's servers */
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+.barriecito-regular {
+  font-family: "Barriecito", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
 
 /* Style the entire body of the webpage */
 body {
@@ -8,6 +11,7 @@ body {
   color: #111;                        /* Set text color to dark gray (almost black) */
   margin: 0;                          /* Remove default spacing around the body */
   padding: 0;                         /* Remove default internal spacing */
+  align-items: center;
 }
 
 /* Style the header section at the top of the page */
